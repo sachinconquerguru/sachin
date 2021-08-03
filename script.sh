@@ -1,5 +1,1 @@
-#!/bin/bash
-
-
-echo "iam sachin"
-echo "hii"
+in script of sachin with durga fork
